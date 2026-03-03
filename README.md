@@ -1,6 +1,6 @@
-# 网易云音乐歌单批量下载工具 - NetEase-Playlist-Downloader
+# 网易云歌单音乐批量下载工具 - NetEase-Playlist-Downloader
 
-🎵 一款支持JS逆向加密的网易云音乐歌单批量下载工具 | 仅供学习研究使用 🎵
+🎵 一款支持JS逆向加密的网易云歌单音乐批量下载工具 | 仅供学习研究使用 🎵
 ## 🔗 项目链接
 
 - **GitHub仓库**: [-NetEase-Playlist-Downloader](https://github.com/LCZcoding/-NetEase-Playlist-Downloader)
